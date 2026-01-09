@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/reto-100-dias.git"
+        "url": "git+https://github.com/jeremy-cdc/reto-100-dias.git"
     },
     "keywords": [
         "reto",
@@ -19,9 +19,9 @@
     "author": "Jeremy Díaz",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jevmydev/reto-100-dias/issues"
+        "url": "https://github.com/jeremy-cdc/reto-100-dias/issues"
     },
-    "homepage": "https://github.com/jevmydev/reto-100-dias#readme",
+    "homepage": "https://github.com/jeremy-cdc/reto-100-dias#readme",
     "devDependencies": {
         "eslint": "8.35.0",
         "eslint-config-prettier": "9.1.0",
