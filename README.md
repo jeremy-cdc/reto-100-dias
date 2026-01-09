@@ -5,24 +5,24 @@ tecnologías.
 
 ## Proyectos ❤️
 
-| #   | Proyecto            | Descripción                                    | Código                                                                                        | Enlace                               |
-| --- | ------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 01  | **AppNotes**        | Crea, etiqueta, elimina y organiza tus notas   | [/01-appnotes](https://github.com/jevmydev/reto-100-dias/tree/main/01-appnotes)               | https://theappnotes.netlify.app      |
-| 02  | **Escala de notas** | Escala notas, calcula tus promedios y más      | [/02-escala-de-notas](https://github.com/jevmydev/reto-100-dias/tree/main/02-escala-de-notas) | https://escala-de-notas.netlify.app/ |
-| 03  | **Mathpaint**       | Dibuja en toda la web tus cálculos matemáticos | [/03-mathpaint](https://github.com/jevmydev/reto-100-dias/tree/main/03-mathpaint)             | https://mathpaint.netlify.app/       |
-| 04  | **TimeToEvent**     | Contador regresivo hasta tu fecha de tu evento | [/04-timetoevent](https://github.com/jevmydev/reto-100-dias/tree/main/04-timetoevent)         | https://timetoevent.netlify.app/     |
-| 05  | **BookTime**        | Calcula el tiempo que estarás leyendo un libro | [/05-booktime](https://github.com/jevmydev/reto-100-dias/tree/main/05-booktime)               | https://thebooktime.netlify.app/     |
-| 06  | **MonkeyType**      | Pon a prueba tu mecanografía en este juego     | [/06-monkeytype](https://github.com/jevmydev/reto-100-dias/tree/main/06-monkeytype)           | https://themonkeytype.netlify.app/   |
-| 07  | **Tesla Clon**      | Página clon de Tesla con todos sus efectos     | [/07-tesla-clone](https://github.com/jevmydev/reto-100-dias/tree/main/07-tesla-clone)         | https://the-tesla-clon.netlify.app/  |
-| 08  | **Units**           | Convierte unidades entre diversas medidas      | [/08-units](https://github.com/jevmydev/reto-100-dias/tree/main/08-units)                     | https://the-units.netlify.app/       |
-| 09  | **Chessframe**      | Destaca tus mejores partidas de ajedrez        | [/09-chessframe](https://github.com/jevmydev/reto-100-dias/tree/main/09-chessframe)           | https://chessframe.netlify.app/      |
-| 10  | **Santa Tracker**   | Recorre el viaje de Santa en navidad           | [/10-santatracker](https://github.com/jevmydev/reto-100-dias/tree/main/10-santatracker)       | https://the-santa-tracker.netlify.app/    |
+| #   | Proyecto            | Descripción                                    | Código                                                                                          | Enlace                                 |
+| --- | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 01  | **AppNotes**        | Crea, etiqueta, elimina y organiza tus notas   | [/01-appnotes](https://github.com/jeremy-cdc/reto-100-dias/tree/main/01-appnotes)               | https://theappnotes.netlify.app        |
+| 02  | **Escala de notas** | Escala notas, calcula tus promedios y más      | [/02-escala-de-notas](https://github.com/jeremy-cdc/reto-100-dias/tree/main/02-escala-de-notas) | https://escala-de-notas.netlify.app/   |
+| 03  | **Mathpaint**       | Dibuja en toda la web tus cálculos matemáticos | [/03-mathpaint](https://github.com/jeremy-cdc/reto-100-dias/tree/main/03-mathpaint)             | https://mathpaint.netlify.app/         |
+| 04  | **TimeToEvent**     | Contador regresivo hasta tu fecha de tu evento | [/04-timetoevent](https://github.com/jeremy-cdc/reto-100-dias/tree/main/04-timetoevent)         | https://timetoevent.netlify.app/       |
+| 05  | **BookTime**        | Calcula el tiempo que estarás leyendo un libro | [/05-booktime](https://github.com/jeremy-cdc/reto-100-dias/tree/main/05-booktime)               | https://thebooktime.netlify.app/       |
+| 06  | **MonkeyType**      | Pon a prueba tu mecanografía en este juego     | [/06-monkeytype](https://github.com/jeremy-cdc/reto-100-dias/tree/main/06-monkeytype)           | https://themonkeytype.netlify.app/     |
+| 07  | **Tesla Clon**      | Página clon de Tesla con todos sus efectos     | [/07-tesla-clone](https://github.com/jeremy-cdc/reto-100-dias/tree/main/07-tesla-clone)         | https://the-tesla-clon.netlify.app/    |
+| 08  | **Units**           | Convierte unidades entre diversas medidas      | [/08-units](https://github.com/jeremy-cdc/reto-100-dias/tree/main/08-units)                     | https://the-units.netlify.app/         |
+| 09  | **Chessframe**      | Destaca tus mejores partidas de ajedrez        | [/09-chessframe](https://github.com/jeremy-cdc/reto-100-dias/tree/main/09-chessframe)           | https://chessframe.netlify.app/        |
+| 10  | **Santa Tracker**   | Recorre el viaje de Santa en navidad           | [/10-santatracker](https://github.com/jeremy-cdc/reto-100-dias/tree/main/10-santatracker)       | https://the-santa-tracker.netlify.app/ |
 
 ## 01 - AppNotes 📓
 
 El proyecto 01 es "AppNotes", una aplicación simple para crear y organizar notas.
 
-👉 Enlace: https://theappnotes.netlify.app/ <br /> 🧑‍💻 Código: [/01-appnotes](https://github.com/jevmydev/reto-100-dias/tree/main/01-appnotes)
+👉 Enlace: https://theappnotes.netlify.app/ <br /> 🧑‍💻 Código: [/01-appnotes](https://github.com/jeremy-cdc/reto-100-dias/tree/main/01-appnotes)
 
 ![Hero de AppNotes](./images/appnotes/hero.png) ![Notas de AppNotes](./images/appnotes/notes.png)
 
@@ -30,7 +30,7 @@ El proyecto 01 es "AppNotes", una aplicación simple para crear y organizar nota
 
 El proyecto 02 es "Escala de notas", donde podemos calcular escalas, ver una tabla de calificaciones y avanzar académicamente.
 
-👉 Enlace: https://escala-de-notas.netlify.app/ <br /> 🧑‍💻 Código: [/02-escala-de-notas](https://github.com/jevmydev/reto-100-dias/tree/main/02-escala-de-notas)
+👉 Enlace: https://escala-de-notas.netlify.app/ <br /> 🧑‍💻 Código: [/02-escala-de-notas](https://github.com/jeremy-cdc/reto-100-dias/tree/main/02-escala-de-notas)
 
 ![Logo de Escala de notas](./images/escala-de-notas/logo.webp) ![Hero de Escala de notas](./images/escala-de-notas/hero.png)
 
@@ -38,7 +38,7 @@ El proyecto 02 es "Escala de notas", donde podemos calcular escalas, ver una tab
 
 El proyecto 03 es "MathPaint", un sitio donde puedes dibujar en toda la web tus cálculos matemáticos.
 
-👉 Enlace: https://mathpaint.netlify.app/ <br /> 🧑‍💻 Código: [/03-mathpaint](https://github.com/jevmydev/reto-100-dias/tree/main/03-mathpaint)
+👉 Enlace: https://mathpaint.netlify.app/ <br /> 🧑‍💻 Código: [/03-mathpaint](https://github.com/jeremy-cdc/reto-100-dias/tree/main/03-mathpaint)
 
 ![Logo de Mathpaint](./images/mathpaint/logo.webp) ![Hero de Mathpaint](./images/mathpaint/hero.png)
 
@@ -46,7 +46,7 @@ El proyecto 03 es "MathPaint", un sitio donde puedes dibujar en toda la web tus 
 
 El proyecto 04 es "TimeToEvent", tu generador favorito de contador de tiempo hasta llegar a la fecha de tu evento especial
 
-👉 Enlace: https://timetoevent.netlify.app/ <br /> 🧑‍💻 Código: [/04-timetoevent](https://github.com/jevmydev/reto-100-dias/tree/main/04-timetoevent)
+👉 Enlace: https://timetoevent.netlify.app/ <br /> 🧑‍💻 Código: [/04-timetoevent](https://github.com/jeremy-cdc/reto-100-dias/tree/main/04-timetoevent)
 
 ![Logo de Timetoevent](./images/timetoevent/logo.webp) ![Hero de Timetoevent](./images/timetoevent/hero.png)
 
@@ -54,7 +54,7 @@ El proyecto 04 es "TimeToEvent", tu generador favorito de contador de tiempo has
 
 El proyecto 05 es "BookTime", donde puedes calcular el tiempo que estarás leyendo un libro que te guste
 
-👉 Enlace: https://thebooktime.netlify.app/ <br /> 🧑‍💻 Código: [/05-booktime](https://github.com/jevmydev/reto-100-dias/tree/main/05-booktime)
+👉 Enlace: https://thebooktime.netlify.app/ <br /> 🧑‍💻 Código: [/05-booktime](https://github.com/jeremy-cdc/reto-100-dias/tree/main/05-booktime)
 
 ![Logo de BookTime](./images/booktime/logo.webp) ![Hero de BookTime](./images/booktime/hero.png)
 
@@ -62,7 +62,7 @@ El proyecto 05 es "BookTime", donde puedes calcular el tiempo que estarás leyen
 
 El proyecto 06 es "MonkeyType", un juego web donde pones a prueba tu mecanografía mientras mejoras tu velocidad y precisión de tipeo
 
-👉 Enlace: https://themonkeytype.netlify.app/ <br /> 🧑‍💻 Código: [/06-monkeytype](https://github.com/jevmydev/reto-100-dias/tree/main/06-monkeytype)
+👉 Enlace: https://themonkeytype.netlify.app/ <br /> 🧑‍💻 Código: [/06-monkeytype](https://github.com/jeremy-cdc/reto-100-dias/tree/main/06-monkeytype)
 
 ![Logo de MonkeyType](./images/monkeytype/logo.webp) ![Hero de MonkeyType](./images/monkeytype/hero.png)
 
@@ -70,7 +70,7 @@ El proyecto 06 es "MonkeyType", un juego web donde pones a prueba tu mecanograf�
 
 El proyecto 07 es "Tesla Clon", una clon de la página de Tesla para fines educativos. Realice los efectos, el responsive, hovers y la landing principal de la web.
 
-👉 Enlace: https://the-tesla-clon.netlify.app/ <br /> 🧑‍💻 Código: [/07-tesla-clone](https://github.com/jevmydev/reto-100-dias/tree/main/07-tesla-clone)
+👉 Enlace: https://the-tesla-clon.netlify.app/ <br /> 🧑‍💻 Código: [/07-tesla-clone](https://github.com/jeremy-cdc/reto-100-dias/tree/main/07-tesla-clone)
 
 ![Logo de Tesla](./images/tesla/logo.webp) ![Hero de Tesla](./images/tesla/hero.png)
 
@@ -78,7 +78,7 @@ El proyecto 07 es "Tesla Clon", una clon de la página de Tesla para fines educa
 
 El proyecto 08 es "Units", una aplicación que te permite convertir unidades entre diversas medidas.
 
-👉 Enlace: https://the-units.netlify.app/ <br /> 🧑‍💻 Código: [/08-units](https://github.com/jevmydev/reto-100-dias/tree/main/08-units)
+👉 Enlace: https://the-units.netlify.app/ <br /> 🧑‍💻 Código: [/08-units](https://github.com/jeremy-cdc/reto-100-dias/tree/main/08-units)
 
 ![Logo de Units](./images/units/logo.webp) ![Hero de Units](./images/units/hero.png)
 
@@ -86,7 +86,7 @@ El proyecto 08 es "Units", una aplicación que te permite convertir unidades ent
 
 El proyecto 09 es "Chessframe", destaca tus mejores partidas de ajedrez. Carga tus partidas, elige tu jugada favorita y enmarcala para siempre.
 
-👉 Enlace: https://chessframe.netlify.app/ <br /> 🧑‍💻 Código: [/09-chessframe](https://github.com/jevmydev/reto-100-dias/tree/main/09-chessframe)
+👉 Enlace: https://chessframe.netlify.app/ <br /> 🧑‍💻 Código: [/09-chessframe](https://github.com/jeremy-cdc/reto-100-dias/tree/main/09-chessframe)
 
 ![Logo de Chessframe](./images/chessframe/logo.webp) ![Hero de Chessframe](./images/chessframe/hero.png)
 
@@ -94,7 +94,7 @@ El proyecto 09 es "Chessframe", destaca tus mejores partidas de ajedrez. Carga t
 
 El proyecto 10 es "SantaTracker", sigue el viaje de Santa en esta navidad.
 
-👉 Enlace: https://the-santa-tracker.netlify.app/ <br /> 🧑‍💻 Código: [/10-santatracker](https://github.com/jevmydev/reto-100-dias/tree/main/10-santatracker)
+👉 Enlace: https://the-santa-tracker.netlify.app/ <br /> 🧑‍💻 Código: [/10-santatracker](https://github.com/jeremy-cdc/reto-100-dias/tree/main/10-santatracker)
 
 ![Logo de Santa Tracker](./images/santatracker/logo.webp) ![Hero de Santa Tracker](./images/santatracker/hero.png)
 
